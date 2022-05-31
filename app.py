@@ -4,11 +4,11 @@ import streamlit as st
 # EDA Pkgs
 import pandas as pd 
 import codecs
-from pandas_profiling import ProfileReport 
+#from pandas_profiling import ProfileReport 
 
 # Components Pkgs
 import streamlit.components.v1 as components
-from streamlit_pandas_profiling import st_profile_report
+#from streamlit_pandas_profiling import st_profile_report
 
 # Custome Component Fxn
 import sweetviz as sv 
